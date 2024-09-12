@@ -1,8 +1,8 @@
 # [LocalRegex](https://pub.dev/packages/localregex/)
 
 <img src="https://img.shields.io/pub/v/localregex?style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/iamngoni/localregex">
-<img src="https://img.shields.io/twitter/url?label=iamngoni_&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamngoni_">
+<img src="https://img.shields.io/github/last-commit/ngoni-sama/localregex">
+<img src="https://img.shields.io/twitter/url?label=ngonimaps_&style=social&url=https%3A%2F%2Ftwitter.com%2Fngonimaps_">
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
@@ -16,7 +16,7 @@
 This plugin allows developers to check if an input matches common regex patterns in Zimbabwe and other countries.
 This plugin works for all Flutter supported platforms i.e. Android, iOS, Web and Desktop (Linux, Windows & MacOS).
 
-> Developed by Ngonidzashe Mangudya. Special shoutout to [Kudakwashe Kuzvindiwana](https://github.com/kudak3) & [Donald Chinhuru](https://twitter.com/donix_22) for pushing this package the most.
+> Developed by Ngonidzashe Maphosa. Special shoutout to [Kudakwashe Kuzvindiwana](https://github.com/kudak3) & [Donald Chinhuru](https://twitter.com/donix_22) for pushing this package the most.
 
 ## Usage
 
@@ -167,7 +167,7 @@ LocalSchools.hit.isStudent('studentID')
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://www.modestnerd.co"><img src="https://avatars.githubusercontent.com/u/38191932?v=4" width="100px;" alt=""/><br /><sub><b>Ngonidzashe Mangudya</b></sub></a></td>
+      <td align="center"><a href="https://www.ngoni-sama.github.io"><img src="https://avatars.githubusercontent.com/u/38191932?v=4" width="100px;" alt=""/><br /><sub><b>Ngonidzashe Maphosa</b></sub></a></td>
       <td align="center"><a href="https://github.com/kudak3"><img src="https://avatars.githubusercontent.com/u/52527906?v=4" width="100px;" alt=""/><br /><sub><b>Kudakwashe Kuzvindiwana</b></sub></a></td>
       <td align="center"><a href="https://donnc.github.io/"><img src="https://avatars.githubusercontent.com/u/47761288?v=4" width="100px;" alt=""/><br /><sub><b>Donald Chinhuru</b></sub></a></td>
     </tr>
